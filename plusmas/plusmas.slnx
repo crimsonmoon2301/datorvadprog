@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="Darbojamies ar 2 plusmam.editorconfig" />
+  </Folder>
+  <Project Path="plusmas/plusmas.csproj" Id="167c3f2a-95c2-47e3-9c16-9d6180ed5c17" />
+  <Project Path="plusmas12/plusmas12.csproj" Id="c85e7239-dca5-4f98-ada2-03d93ec89cf1" />
+  <Project Path="plusmas13/plusmas13.csproj" Id="971f8310-b711-410c-ac81-c96a56b57cfd" />
+  <Project Path="plusmas2/plusmas2.csproj" Id="e42d7d81-6f13-49e1-93cd-b48134addc92" />
+  <Project Path="plusmas3/plusmas3.csproj" Id="3a1150d4-b679-46dd-aaef-f95c6e610271" />
+</Solution>

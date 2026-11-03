@@ -1,0 +1,7 @@
+E:\Datorvadiba programmesana\plusmas\plusmas\bin\Debug\plusmas.exe.config
+E:\Datorvadiba programmesana\plusmas\plusmas\bin\Debug\plusmas.exe
+E:\Datorvadiba programmesana\plusmas\plusmas\bin\Debug\plusmas.pdb
+E:\Datorvadiba programmesana\plusmas\plusmas\obj\Debug\plusmas.csproj.AssemblyReference.cache
+E:\Datorvadiba programmesana\plusmas\plusmas\obj\Debug\plusmas.csproj.CoreCompileInputs.cache
+E:\Datorvadiba programmesana\plusmas\plusmas\obj\Debug\plusmas.exe
+E:\Datorvadiba programmesana\plusmas\plusmas\obj\Debug\plusmas.pdb
