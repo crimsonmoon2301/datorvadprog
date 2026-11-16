@@ -1,0 +1,15 @@
+E:\Datorvadiba programmesana\Task\Task\bin\Debug\net10.0\Task.exe
+E:\Datorvadiba programmesana\Task\Task\bin\Debug\net10.0\Task.deps.json
+E:\Datorvadiba programmesana\Task\Task\bin\Debug\net10.0\Task.runtimeconfig.json
+E:\Datorvadiba programmesana\Task\Task\bin\Debug\net10.0\Task.dll
+E:\Datorvadiba programmesana\Task\Task\bin\Debug\net10.0\Task.pdb
+E:\Datorvadiba programmesana\Task\Task\obj\Debug\net10.0\Task.GeneratedMSBuildEditorConfig.editorconfig
+E:\Datorvadiba programmesana\Task\Task\obj\Debug\net10.0\Task.AssemblyInfoInputs.cache
+E:\Datorvadiba programmesana\Task\Task\obj\Debug\net10.0\Task.AssemblyInfo.cs
+E:\Datorvadiba programmesana\Task\Task\obj\Debug\net10.0\Task.csproj.CoreCompileInputs.cache
+E:\Datorvadiba programmesana\Task\Task\obj\Debug\net10.0\Task.dll
+E:\Datorvadiba programmesana\Task\Task\obj\Debug\net10.0\refint\Task.dll
+E:\Datorvadiba programmesana\Task\Task\obj\Debug\net10.0\Task.pdb
+E:\Datorvadiba programmesana\Task\Task\obj\Debug\net10.0\Task.genruntimeconfig.cache
+E:\Datorvadiba programmesana\Task\Task\obj\Debug\net10.0\ref\Task.dll
+E:\Datorvadiba programmesana\Task\Task\obj\Debug\net10.0\Task.csproj.Up2Date
